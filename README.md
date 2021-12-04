@@ -1,2 +1,3 @@
-### WELCOME TO PY PROFILE PAGE!👋
-見る専です pythonだけミリわかる 
+### こんにちは
+プログラミングはわかりません
+見る専です
